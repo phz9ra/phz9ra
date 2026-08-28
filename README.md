@@ -155,22 +155,13 @@ Music application with playlist and recommendation-oriented features.
 
 ---
 
-## `> profile_views`
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=phz9ra&style=for-the-badge&color=grey&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
-
----
-
 ## `> contact`
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-montani.dev%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:montani.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-phz9ra-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phz9ra)
+[![Instagram](https://img.shields.io/badge/Instagram-%40phz9ra-0D1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phz9ra/)
 
 </div>
 
