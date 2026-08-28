@@ -81,6 +81,7 @@ GitHub:  github.com/phz9ra
 ```yaml
 name: Pedro Henrique
 username: phz9ra
+
 area:
   - Software Development
   - Information Technology
@@ -102,37 +103,63 @@ interests:
 
 ## `> featured_projects`
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Revestone
-Corporate web experience focused on responsive design, product presentation, catalogs and business-oriented features.
+Corporate web project focused on responsive design, product presentation, catalogs and business-oriented features.
+
+**Stack:** Next.js • React • JavaScript
+
+</td>
+<td width="50%" valign="top">
 
 ### GG Panel
-Gaming management platform built with React, Node.js, Express and SQLite.
+Gaming management platform for teams, players and tournaments.
+
+**Stack:** React • Node.js • Express • SQLite
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Alumigames
 Competitive gaming platform concept focused on CS2 matches, server integration and event operations.
 
+**Focus:** Web • Backend • Game Server Integration
+
+</td>
+<td width="50%" valign="top">
+
 ### Sonora
 Music application with playlist and recommendation-oriented features.
 
+**Focus:** Media • Recommendations • User Experience
+
+</td>
+</tr>
+</table>
+
 ---
 
-## `> github_stats`
+## `> github_activity`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=phz9ra&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phz9ra&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" />
+<img src="https://streak-stats.demolab.com?user=phz9ra&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## `> contribution_activity`
+## `> profile_views`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phz9ra&bg_color=0D1117&color=FFFFFF&line=8B949E&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=phz9ra&style=for-the-badge&color=grey&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -146,6 +173,8 @@ Music application with playlist and recommendation-oriented features.
 [![GitHub](https://img.shields.io/badge/GitHub-phz9ra-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phz9ra)
 
 </div>
+
+<br>
 
 <div align="center">
 
