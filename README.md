@@ -24,7 +24,7 @@
 phz9ra@github
 ──────────────────────────────────────
 
-Hi, I'm Pedro Henrique 👋
+Hi, I'm Pedro Henrique 
 
 Role:   IT Professional & Software Developer
 Study:  Systems Development @ SENAI
