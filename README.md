@@ -4,7 +4,8 @@
 
 ### Software Developer • IT • Systems Development
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&center=true&vCenter=true&width=620&lines=building+things+with+code.;web+%2F+backend+%2F+systems.;always+learning%2C+always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=F48FB1&center=true&vCenter=true&width=620&lines=building+things+with+code.;web+%2F+backend+%2F+systems.;always+learning%2C+always+shipping." alt="Typing SVG" />
+
 
 </div>
 
