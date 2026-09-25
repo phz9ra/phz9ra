@@ -13,7 +13,7 @@
 <tr>
 <td width="44%" align="center">
 
-<img src="./assets/phz9ra-white-profile.gif" width="390" alt="phz9ra profile animation"/>
+<img src="./assets/phz9ra-profile.gif" width="390" alt="phz9ra profile animation"/>
 
 </td>
 
